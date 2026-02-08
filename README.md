@@ -20,5 +20,5 @@ Incluye Product Backlog, Sprint Backlog y Sprint Planning.
    npm start
 
 ## Repositorio
-https://github.com/TU_USUARIO/proyectoamex
+https://github.com/Amex233/proyectoamex
 
