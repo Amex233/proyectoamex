@@ -20,5 +20,6 @@ Incluye Product Backlog, Sprint Backlog y Sprint Planning.
    npm start
 
 ## Repositorio
+=======
 https://github.com/Amex233/proyectoamex
-
+>>>>>>> 50ef86d (Agregada landing page, registro visual y actualización de estructura)
